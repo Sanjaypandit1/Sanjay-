@@ -64,6 +64,8 @@
   }
   
   img {
+    width: 150px;
+    
     max-width: 80%;
     height: auto;
     display: block;
